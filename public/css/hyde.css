@@ -53,12 +53,39 @@ html {
  * out above content in mobile and later moves to the side with wider viewports.
  */
 
+/*
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
+ */
+
+.sidebar {
+  text-align: center;
+  padding: 2rem 1rem;
+  color: rgba(255,255,255,.85);
+
+  background-image: url("../assets/heic2018a_flip.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.sidebar::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+  z-index: 0;
+}
+
+.sidebar * {
+  position: relative;
+  z-index: 1;
+}
+
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
@@ -67,6 +94,12 @@ html {
     bottom: 0;
     width: 18rem;
     text-align: left;
+  }
+}
+
+@media (max-width: 48em) {
+  .sidebar::before {
+    background: rgba(0, 0, 0, 0.35);
   }
 }
 
