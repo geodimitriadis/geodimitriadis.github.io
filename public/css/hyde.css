@@ -252,3 +252,8 @@ a.sidebar-nav-item:focus {
 .sidebar-links { margin-top: 1rem; font-size: 0.9rem; }
 .sidebar-links a { text-decoration: none; }
 .sidebar-links a:hover { text-decoration: underline; }
+
+.sidebar h1 {
+  font-size: 1.6rem;   /* default is ~2rem */
+  line-height: 1.2;
+}
