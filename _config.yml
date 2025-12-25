@@ -1,26 +1,24 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+# Site settings
+title: "Georgios Dimitriadis"
+tagline: "Astronomer"
+description: "Astronomer working on exoplanets, stellar activity, and time-domain astronomy."
 
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
+# Important for GitHub Pages (user site)
+url: "https://geodimitriadis.github.io"
+baseurl: ""   # MUST be empty for USERNAME.github.io sites
 
-# Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+# Build settings (GitHub Pages-compatible)
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
 
+# Pagination (Hyde supports this)
+paginate: 5
+
+# Optional author block (edit as you like)
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name: "Georgios Dimitriadis"
 
-paginate:         5
-
-# Custom vars
-version:          2.1.0
-
+# Optional: metadata link
 github:
-  repo:           https://github.com/poole/hyde
+  repo: "https://github.com/geodimitriadis/geodimitriadis.github.io"
