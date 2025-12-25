@@ -248,3 +248,7 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+.sidebar-links { margin-top: 1rem; font-size: 0.9rem; }
+.sidebar-links a { text-decoration: none; }
+.sidebar-links a:hover { text-decoration: underline; }
