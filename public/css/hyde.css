@@ -255,3 +255,10 @@ a.sidebar-nav-item:focus {
 .sidebar-links a { text-decoration: none; }
 .sidebar-links a:hover { text-decoration: underline; }
 
+/* Profile photo: circular */
+.profile-photo {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+}
