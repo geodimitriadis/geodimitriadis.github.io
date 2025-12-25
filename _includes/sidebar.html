@@ -2,11 +2,18 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
-        <a href="{{ site.baseurl }}">
+        <a href="{{ site.baseurl }}/">
           {{ site.title }}
         </a>
       </h1>
-      <p class="lead">{{ site.description }}</p>
+
+      {% if site.tagline %}
+        <p class="lead">{{ site.tagline }}</p>
+      {% endif %}
+
+      {% if site.description %}
+        <p>{{ site.description }}</p>
+      {% endif %}
     </div>
 
     <nav class="sidebar-nav">
@@ -18,6 +25,13 @@
       <a class="sidebar-nav-item" href="{{ site.baseurl }}/contact/">Contact</a>
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <div class="sidebar-links">
+      <a href="mailto:g.dimitriadis@lancaster.ac.uk">Email</a><br>
+      <a href="https://ui.adsabs.harvard.edu/user/libraries/9QZsHjSzS3GgJT5W_WMhHw" target="_blank" rel="noopener">NASA ADS</a><br>
+      <a href="https://orcid.org/0000-0001-9494-179X" target="_blank" rel="noopener">ORCID</a><br>
+      <a href="https://github.com/geodimitriadis" target="_blank" rel="noopener">GitHub</a>
+    </div>
+
+    <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}.</p>
   </div>
 </div>
