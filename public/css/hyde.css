@@ -263,8 +263,8 @@ a.sidebar-nav-item:focus {
 
 /* Profile photo: circular */
 .profile-photo {
-  width: 300px;
-  height: 300px;
+  width: 250px;
+  height: 250px;
   border-radius: 50%;
   box-shadow: 0 2px 6px rgba(0,0,0,0.15);
   object-fit: cover;
