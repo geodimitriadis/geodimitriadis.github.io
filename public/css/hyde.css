@@ -308,3 +308,11 @@ a.sidebar-nav-item:focus {
   float: right;
   margin: -60px 0 25px 30px;
 }
+
+.content a {
+  text-decoration: underline;
+}
+
+.content a:hover {
+  text-decoration: none;
+}
