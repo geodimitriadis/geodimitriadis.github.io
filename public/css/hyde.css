@@ -70,7 +70,7 @@ html {
   overflow: hidden;
   background-image: url("../../assets/heic2018a_flip.jpg");
   background-size: cover;
-  background-position: 50% 10%;
+  background-position: center -100px;
   background-repeat: no-repeat;
 }
 
