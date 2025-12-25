@@ -1,31 +1,29 @@
 ---
-layout: default
+layout: page
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-    <div class="post">
-      <h1 class="post-title">
-        <a href="{{ post.url | relative_url }}">
-          {{ post.title }}
-        </a>
-      </h1>
-      <span class="post-date">{{ post.date | date_to_string }}</span>
-      {{ post.content }}
-    </div>
-  {% endfor %}
-</div>
+<img src="{{ site.baseurl }}/assets/GD_photo.jpg"
+     alt="Georgios Dimitriadis"
+     style="width:160px; border-radius:50%; float:right; margin:0 0 20px 20px;">
 
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a class="pagination-item older" href="{{ paginator.previous_page_path | relative_url }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.next_page %}
-    <a class="pagination-item newer" href="{{ paginator.next_page_path | relative_url }}">Newer</a>
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+Hi — I’m <strong>Georgios Dimitriadis</strong>, an astronomer.
+
+<p>
+I work on <em>exoplanets, stellar activity, and time-domain analysis</em>.
+</p>
+
+<h2>Research highlights</h2>
+<ul>
+  <li>1–2 lines on your main theme #1</li>
+  <li>1–2 lines on your main theme #2</li>
+  <li>1–2 lines on your main theme #3</li>
+</ul>
+
+<h2>Links</h2>
+<ul>
+  <li>Email: <a href="mailto:g.dimitriadis@lancaster.ac.uk">g.dimitriadis@lancaster.ac.uk</a></li>
+  <li>NASA ADS: <a href="YOUR_ADS_LINK">ADS profile</a></li>
+  <li>Google Scholar: <a href="YOUR_SCHOLAR_LINK">Scholar profile</a></li>
+  <li>ORCID: <a href="YOUR_ORCID_LINK">0000-0000-0000-0000</a></li>
+</ul>
