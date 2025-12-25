@@ -1,7 +1,7 @@
 # Site settings
 title: "Georgios Dimitriadis"
-tagline: "Astronomer at Lancaster University"
-description: "Astronomer working on time-domain astronomy."
+tagline: "Lancaster University"
+# description: "Astronomer working on time-domain astronomy."
 
 # Important for GitHub Pages (user site)
 url: "https://geodimitriadis.github.io"
