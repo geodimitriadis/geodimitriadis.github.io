@@ -66,8 +66,9 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.85);
-
-  background-image: url("../assets/heic2018a_flip.jpg");
+  position: relative;
+  overflow: hidden;
+  background-image: url("../../assets/heic2018a_flip.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
