@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+permalink: /publications/
 ---
 
 This page highlights selected publications. For a complete and up-to-date list, see the NASA ADS link below.
