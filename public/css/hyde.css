@@ -347,6 +347,10 @@ a.sidebar-nav-item:focus {
   transform: scale(1.05);
 }
 
+.sidebar-icons img.no-invert {
+  filter: none;
+}
+
 .sidebar-copyright {
   text-align: center;
   font-size: 0.8rem;
