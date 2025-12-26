@@ -96,6 +96,7 @@ html {
     width: 18rem;
     text-align: left;
   }
+  .sidebar-icons { justify-content: flex-start; }
 }
 
 /* Sidebar links */
@@ -213,7 +214,8 @@ a.sidebar-nav-item:focus {
 
 /* Base16 (http://chriskempson.github.io/base16/#default) */
 
-/* Red */
+/* Red 
+
 .theme-base-08 .sidebar {
   background-color: #ac4142;
 }
@@ -222,7 +224,8 @@ a.sidebar-nav-item:focus {
   color: #ac4142;
 }
 
-/* Orange */
+
+/* Orange 
 .theme-base-09 .sidebar {
   background-color: #d28445;
 }
@@ -231,7 +234,7 @@ a.sidebar-nav-item:focus {
   color: #d28445;
 }
 
-/* Yellow */
+/* Yellow 
 .theme-base-0a .sidebar {
   background-color: #f4bf75;
 }
@@ -240,7 +243,7 @@ a.sidebar-nav-item:focus {
   color: #f4bf75;
 }
 
-/* Green */
+/* Green 
 .theme-base-0b .sidebar {
   background-color: #90a959;
 }
@@ -249,7 +252,7 @@ a.sidebar-nav-item:focus {
   color: #90a959;
 }
 
-/* Cyan */
+/* Cyan 
 .theme-base-0c .sidebar {
   background-color: #75b5aa;
 }
@@ -258,7 +261,7 @@ a.sidebar-nav-item:focus {
   color: #75b5aa;
 }
 
-/* Blue */
+/* Blue 
 .theme-base-0d .sidebar {
   background-color: #6a9fb5;
 }
@@ -267,7 +270,7 @@ a.sidebar-nav-item:focus {
   color: #6a9fb5;
 }
 
-/* Magenta */
+/* Magenta 
 .theme-base-0e .sidebar {
   background-color: #aa759f;
 }
@@ -276,7 +279,7 @@ a.sidebar-nav-item:focus {
   color: #aa759f;
 }
 
-/* Brown */
+/* Brown 
 .theme-base-0f .sidebar {
   background-color: #8f5536;
 }
@@ -284,10 +287,7 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
-
-.sidebar-links { margin-top: 1rem; font-size: 0.9rem; }
-.sidebar-links a { text-decoration: none; }
-.sidebar-links a:hover { text-decoration: underline; }
+*/
 
 /* Profile photo: circular */
 .profile-photo {
@@ -339,7 +339,7 @@ a.sidebar-nav-item:focus {
   height: 24px;
   opacity: 0.75;
   filter: invert(100%);
-  transition: opacity 0.2s ease;
+  transition: opacity 0.2s ease, transform 0.2s ease;
 }
 
 .sidebar-icons img:hover {
