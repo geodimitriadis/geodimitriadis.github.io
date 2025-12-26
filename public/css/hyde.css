@@ -326,3 +326,22 @@ a.sidebar-nav-item:focus {
   color: #999;
   text-align: center;
 }
+
+.sidebar-icons {
+  margin-top: 2rem;
+  display: flex;
+  gap: 0.9rem;
+  justify-content: center;
+}
+
+.sidebar-icons img {
+  width: 20px;
+  height: 20px;
+  opacity: 0.75;
+  filter: invert(100%);
+  transition: opacity 0.2s ease;
+}
+
+.sidebar-icons img:hover {
+  opacity: 1;
+}
