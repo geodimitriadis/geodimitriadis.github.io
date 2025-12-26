@@ -330,13 +330,13 @@ a.sidebar-nav-item:focus {
 .sidebar-icons {
   margin-top: 2rem;
   display: flex;
-  gap: 0.9rem;
+  gap: 1.1rem;
   justify-content: center;
 }
 
 .sidebar-icons img {
-  width: 20px;
-  height: 20px;
+  width: 24px;
+  height: 24px;
   opacity: 0.75;
   filter: invert(100%);
   transition: opacity 0.2s ease;
@@ -344,6 +344,7 @@ a.sidebar-nav-item:focus {
 
 .sidebar-icons img:hover {
   opacity: 1;
+  transform: scale(1.05);
 }
 
 .sidebar-copyright {
