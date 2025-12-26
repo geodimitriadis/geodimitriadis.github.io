@@ -6,7 +6,12 @@ title: Publications
 This page highlights selected publications. For a complete and up-to-date list, see NASA ADS below.
 
 ## Selected publications
-- **Paper title** (Year), Journal — [ADS](#) [arXiv](#)
+- **Paper title**
+
+- **ZTF SN Ia DR2: The diversity and relative rates of the thermonuclear SN population** Astronomy & Astrophysics, Volume 694, id.A10, 19 pp., February 2025 — <a href="https://ui.adsabs.harvard.edu/abs/2025A&A...694A..10D/abstract" target="_blank" rel="noopener">ADS</a>
+  <span style="color:#666;">
+    A systematic analysis of Type Ia supernova subclasses in the ZTF survey.
+  </span>
 
 ## Full list
 <p>
@@ -15,5 +20,5 @@ This page highlights selected publications. For a complete and up-to-date list, 
      target="_blank" rel="noopener">
     NASA ADS
   </a>
-  page.
+  library.
 </p>
