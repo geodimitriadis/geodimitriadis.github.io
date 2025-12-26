@@ -345,3 +345,9 @@ a.sidebar-nav-item:focus {
 .sidebar-icons img:hover {
   opacity: 1;
 }
+
+.sidebar-copyright {
+  text-align: center;
+  font-size: 0.8rem;
+  color: rgba(255,255,255,0.6);
+}
