@@ -69,7 +69,7 @@ body {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.85);
+  color: #ffffff;
   position: relative;
   overflow: hidden;
   background-image: url("../images/heic2018a_flip2.jpg");
