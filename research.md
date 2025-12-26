@@ -3,11 +3,11 @@ layout: page
 title: Research
 ---
 
-## Exoplanets
-A short paragraph on what you do here (surveys, RVs, transits, atmospheres, etc.).
+## first
+A short paragraph
 
-## Stellar activity & variability
-A short paragraph on signals, rotation, flares, spots, mitigation.
+## second
+A short paragraph
 
-## Methods
-Time-series analysis, inference, modeling, pipelines, open-source tools (if any).
+## third
+A short paragraph
