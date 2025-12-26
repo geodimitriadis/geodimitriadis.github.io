@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-This page highlights selected publications. For a complete and up-to-date list, see NASA ADS below.
+This page highlights selected publications. For a complete and up-to-date list, see NASA ADS link below.
 
 ## Selected publications
 
