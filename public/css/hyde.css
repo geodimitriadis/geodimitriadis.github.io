@@ -143,7 +143,7 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) {
   .sidebar-sticky {
     position: absolute;
-    top: 10rem;
+    top: 1.5rem;
     bottom: 1.5rem;
     left: 1rem;
     right: 1rem;
@@ -153,14 +153,13 @@ a.sidebar-nav-item:focus {
   }
 
   .sidebar-bottom {
-    margin-top: 2rem;
+    margin-top: auto; /* pins icons + copyright to bottom */
   }
 
   .sidebar-icons {
-    justify-content: flex-start; /* optional: align icons left on desktop */
+    justify-content: flex-start;
   }
 }
-
 
 /* Container
  *
@@ -344,7 +343,7 @@ a.sidebar-nav-item:focus {
 }
 
 .sidebar-icons {
-  margin-top: 2rem;
+  margin-top: 1.2rem; /* optional */
   display: flex;
   gap: 1.1rem;
   justify-content: center;
