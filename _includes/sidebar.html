@@ -17,13 +17,24 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item" href="{{ site.baseurl }}/">About</a>
-      <a class="sidebar-nav-item{% if page.title == 'About' %} active{% endif %}" href="{{ site.baseurl }}/About/">About</a>
-      <a class="sidebar-nav-item" href="{{ site.baseurl }}/research/">Research</a>
-      <a class="sidebar-nav-item" href="{{ site.baseurl }}/publications/">Publications</a>
-      <a class="sidebar-nav-item{% if page.title == 'Useful Links' %} active{% endif %}" href="{{ site.baseurl }}/useful-links/">Useful Links</a>
-      <a class="sidebar-nav-item" href="{{ site.baseurl }}/assets/GD_CV_without_pub_list.pdf" target="_blank" rel="noopener">CV</a>
-      <a class="sidebar-nav-item" href="{{ site.baseurl }}/contact/">Contact</a>
+      <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}"
+         href="{{ site.baseurl }}/">About</a>
+    
+      <a class="sidebar-nav-item{% if page.url contains '/research/' %} active{% endif %}"
+         href="{{ site.baseurl }}/research/">Research</a>
+    
+      <a class="sidebar-nav-item{% if page.url contains '/publications/' %} active{% endif %}"
+         href="{{ site.baseurl }}/publications/">Publications</a>
+    
+      <a class="sidebar-nav-item{% if page.url contains '/useful-links/' %} active{% endif %}"
+         href="{{ site.baseurl }}/useful-links/">Useful Links</a>
+    
+      <a class="sidebar-nav-item"
+         href="{{ site.baseurl }}/assets/GD_CV_without_pub_list.pdf"
+         target="_blank" rel="noopener">CV</a>
+    
+      <a class="sidebar-nav-item{% if page.url contains '/contact/' %} active{% endif %}"
+         href="{{ site.baseurl }}/contact/">Contact</a>
     </nav>
     
     <div class="sidebar-bottom">
