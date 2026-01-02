@@ -382,13 +382,12 @@ a.sidebar-nav-item:focus {
 
 /* Research page – highlight cards */
 .research-highlight {
-  margin: 3rem 0;
-  padding-bottom: 2rem;
-  border-bottom: 1px solid #eee;
+  margin: 2.5rem 0;
 }
 
-.research-highlight:last-child {
-  border-bottom: none;
+.research-section-divider {
+  margin: 3.5rem 0;
+  border-top: 1px solid #eee;
 }
 
 .research-highlight img {
@@ -401,3 +400,4 @@ a.sidebar-nav-item:focus {
 .research-highlight h3 {
   margin-top: 0;
 }
+
