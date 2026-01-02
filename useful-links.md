@@ -12,13 +12,13 @@ A curated list of astronomy-related links I regularly use.
 - [WISeREP](https://www.wiserep.org/)
 - [ATLAS transients](https://star.pst.qub.ac.uk/sne/atlas4/)
 - [ASAS-SN](https://asas-sn.osu.edu/)
-- [Cosmology Calculator](https://cosmocalc.icrar.org/)
 
 ## Observation planning
 - [Aladin Sky Atlas](https://aladin.cds.unistra.fr/)
 - [stellarium-web](https://stellarium-web.org/)
 - [IRSA Dust Extinction / Reddening](https://irsa.ipac.caltech.edu/applications/DUST/)
 - [STARALT](https://astro.ing.iac.es/staralt/)
+- [Cosmology Calculator](https://cosmocalc.icrar.org/)
 
 ## Surveys & archives
 - [ESO Science Archive Facility](https://archive.eso.org/)
@@ -41,4 +41,6 @@ A curated list of astronomy-related links I regularly use.
 - [IRAF](https://iraf-community.github.io/)
 - [Astropy](https://www.astropy.org/)
 
-If you notice a broken link or have a suggestion, feel free to email me.
+---
+
+If you notice a broken link or have a suggestion, feel free to [email me](mailto:g.dimitriadis@lancaster.ac.uk).
