@@ -152,9 +152,12 @@ a.sidebar-nav-item:focus {
     flex-direction: column;
   }
 
+  .sidebar-about {
+    margin-bottom: 1.2rem;
+  }
+
   .sidebar-nav {
     margin-top: auto;
-    margin-bottom: auto;
   }
 
   .sidebar-bottom {
