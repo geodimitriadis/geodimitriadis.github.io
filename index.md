@@ -15,6 +15,8 @@ My research career has taken me through positions at the [University of Californ
 
 My work combines large-scale transient surveys with detailed optical and near-infrared spectroscopy, with the aim of understanding the explosion physics and improving the use of Type Ia supernovae as cosmological tools.
 
+---
+
 <div style="text-align: center; margin-top: 2rem;">
   <img src="{{ site.baseurl }}/public/images/science_with_a_bang.png"
        alt="Science with a bang"
