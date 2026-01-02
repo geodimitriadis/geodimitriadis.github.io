@@ -1,77 +1,87 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
-    <div class="sidebar-about">
-      <h1>
-        <a href="{{ site.baseurl }}/">
-          {{ site.title }}
-        </a>
-      </h1>
 
-      {% if site.tagline %}
-        <p class="lead">{{ site.tagline }}</p>
-      {% endif %}
+    <!-- Centered block: ABOUT + NAV (kept together) -->
+    <div class="sidebar-main">
 
-      {% if site.description %}
-        <p>{{ site.description }}</p>
-      {% endif %}
-    </div>
+      <div class="sidebar-about">
+        <h1>
+          <a href="{{ site.baseurl }}/">
+            {{ site.title }}
+          </a>
+        </h1>
 
-    <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}"
-         href="{{ site.baseurl }}/">About</a>
-    
-      <a class="sidebar-nav-item{% if page.url contains '/research/' %} active{% endif %}"
-         href="{{ site.baseurl }}/research/">Research</a>
-    
-      <a class="sidebar-nav-item{% if page.url contains '/publications/' %} active{% endif %}"
-         href="{{ site.baseurl }}/publications/">Publications</a>
-    
-      <a class="sidebar-nav-item{% if page.url contains '/useful-links/' %} active{% endif %}"
-         href="{{ site.baseurl }}/useful-links/">Useful Links</a>
-      
-      <a class="sidebar-nav-item{% if page.url contains '/while-observing/' %} active{% endif %}"
-         href="{{ site.baseurl }}/while-observing/">While Observing</a>
-      
-      <a class="sidebar-nav-item"
-         href="{{ site.baseurl }}/assets/GD_CV_without_pub_list.pdf"
-         target="_blank" rel="noopener">CV</a>
-    
-      <a class="sidebar-nav-item{% if page.url contains '/contact/' %} active{% endif %}"
-         href="{{ site.baseurl }}/contact/">Contact</a>
-    </nav>
-    
+        {% if site.tagline %}
+          <p class="lead">{{ site.tagline }}</p>
+        {% endif %}
+
+        {% if site.description %}
+          <p>{{ site.description }}</p>
+        {% endif %}
+      </div>
+
+      <nav class="sidebar-nav">
+        <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}"
+           href="{{ site.baseurl }}/">About</a>
+
+        <a class="sidebar-nav-item{% if page.url contains '/research/' %} active{% endif %}"
+           href="{{ site.baseurl }}/research/">Research</a>
+
+        <a class="sidebar-nav-item{% if page.url contains '/publications/' %} active{% endif %}"
+           href="{{ site.baseurl }}/publications/">Publications</a>
+
+        <a class="sidebar-nav-item{% if page.url contains '/useful-links/' %} active{% endif %}"
+           href="{{ site.baseurl }}/useful-links/">Useful Links</a>
+
+        <a class="sidebar-nav-item{% if page.url contains '/while-observing/' %} active{% endif %}"
+           href="{{ site.baseurl }}/while-observing/">While Observing</a>
+
+        <a class="sidebar-nav-item"
+           href="{{ site.baseurl }}/assets/GD_CV_without_pub_list.pdf"
+           target="_blank" rel="noopener">CV</a>
+
+        <a class="sidebar-nav-item{% if page.url contains '/contact/' %} active{% endif %}"
+           href="{{ site.baseurl }}/contact/">Contact</a>
+      </nav>
+
+    </div><!-- /.sidebar-main -->
+
+    <!-- Bottom block: pinned to bottom via CSS -->
     <div class="sidebar-bottom">
       <div class="sidebar-icons">
-        <a href="mailto:g.dimitriadis@lancaster.ac.uk"
-           aria-label="Email">
+        <a href="mailto:g.dimitriadis@lancaster.ac.uk" aria-label="Email">
           <img src="{{ site.baseurl }}/public/icons/mail.svg" alt="Email">
         </a>
+
         <a href="https://orcid.org/0000-0001-9494-179X"
            target="_blank" rel="noopener"
            aria-label="ORCID">
           <img src="{{ site.baseurl }}/public/icons/orcid.svg" alt="ORCID">
         </a>
+
         <a href="https://ui.adsabs.harvard.edu/user/libraries/9QZsHjSzS3GgJT5W_WMhHw"
            target="_blank" rel="noopener"
            aria-label="NASA ADS">
           <img class="no-invert" src="{{ site.baseurl }}/public/icons/ads-white.svg" alt="NASA ADS">
         </a>
+
         <a href="https://www.linkedin.com/in/georgios-dimitriadis-a8ba7553"
            target="_blank" rel="noopener"
            aria-label="LinkedIn">
           <img src="{{ site.baseurl }}/public/icons/linkedin.svg" alt="LinkedIn">
         </a>
+
         <a href="https://github.com/geodimitriadis"
            target="_blank" rel="noopener"
            aria-label="GitHub">
           <img src="{{ site.baseurl }}/public/icons/github.svg" alt="GitHub">
         </a>
       </div>
-    
+
       <p class="sidebar-copyright">
         &copy; {{ site.time | date: '%Y' }}. All rights reserved.
       </p>
-    </div>
-    
-  </div>
-</div>
+    </div><!-- /.sidebar-bottom -->
+
+  </div><!-- /.container.sidebar-sticky -->
+</div><!-- /.sidebar -->
