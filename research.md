@@ -14,7 +14,7 @@ permalink: /research/
      <img src="{{ site.baseurl }}/assets/ztfdr2.jpg"
           alt="ZTF SNe Ia DR2.">
      <figcaption>
-         Absolute luminosity vs the decline rate of the ZTF SN Ia DR2 light curves, color-coded with their subtypes (left), with their observed fractions (top right) and their host galaxy properties (bottom right). 
+         Absolute luminosity vs the decline rate of the ZTF SN Ia DR2 light curves, color-coded with their subtypes (left), with their observed fractions (top right) and their host galaxy properties (bottom right). From Dimitriadis et al. 2025.
      </figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ Our ZTF SNe Ia cosmology working group performed an analysis of ZTF SN Ia DR2, t
      <img src="{{ site.baseurl }}/assets/super_chandra.jpg"
           alt="SNe 2020esm and 2021zny.">
      <figcaption>
-         Early spectrum of the "super-Chandrasekhar" SN 2020esm, compared with other SNe of various types (left), and light curve of the "super-Chandrasekhar" SN 2021zny, with our best CSM model fit (right).
+         Early spectrum of the "super-Chandrasekhar" SN 2020esm, compared with other SNe of various types (left), and light curve of the "super-Chandrasekhar" SN 2021zny, with our best CSM model fit (right). From Dimitriadis et al. 2022 and Dimitriadis et al. 2023.
      </figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ A long-standing puzzle in the study of thermonuclear supernovae is the existence
      <img src="{{ site.baseurl }}/assets/SN2018oh.jpg"
           alt="The Kepler light curve of SN 2018oh">
      <figcaption>
-         The Kepler light curve of SN 2018oh.
+         The Kepler light curve of SN 2018oh. From Dimitriadis et al. 2019.
      </figcaption>
 </figure>
 
