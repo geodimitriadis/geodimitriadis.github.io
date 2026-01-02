@@ -146,6 +146,8 @@ a.sidebar-nav-item:focus {
     top: 2rem;
     left: 1rem;
     right: 1rem;
+    display: flex;
+    flex-direction: column;
   }
 }
 
