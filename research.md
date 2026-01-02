@@ -8,6 +8,32 @@ permalink: /research/
 
 <div class="research-highlight" markdown="1">
 
+### super chandra
+
+<figure>
+     <img src="{{ site.baseurl }}/assets/SN2020esm.jpg"
+          alt="20esm">
+     <figcaption>
+         bla.
+     </figcaption>
+</figure>
+
+<figure>
+     <img src="{{ site.baseurl }}/assets/SN2021zny.jpg"
+          alt="21zny">
+     <figcaption>
+         bla.
+     </figcaption>
+</figure>
+
+I study fast-evolving optical transients discovered in wide-field time-domain
+surveys, focusing on their photometric and spectroscopic diversity and the
+physical mechanisms powering their emission.
+
+</div>
+
+<div class="research-highlight" markdown="1">
+
 ### A Planet Hunter sees a Supernova bump
 
 <figure>
