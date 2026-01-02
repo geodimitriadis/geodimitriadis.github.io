@@ -427,7 +427,9 @@ a.sidebar-nav-item:focus {
 
 .figure-row img {
   width: 100%;
-  height: auto;
+  /* height: auto; */
+  height: 220px;          /* adjust to taste */
+  object-fit: cover;     /* crops instead of stretching */
 }
 
 @media (max-width: 48em) {
