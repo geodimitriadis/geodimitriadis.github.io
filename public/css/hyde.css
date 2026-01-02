@@ -396,8 +396,8 @@ a.sidebar-nav-item:focus {
 }
 
 .useful-links li::before {
-  content: ">>> ";
-  color: red;
+  content: "–";
+  color: #bbb;
   margin-right: 0.5rem;
 }
 
