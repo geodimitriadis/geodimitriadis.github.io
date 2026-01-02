@@ -8,13 +8,13 @@ permalink: /research/
 
 <div class="research-highlight" markdown="1">
 
-### dr2
+### ZTF SN Ia DR2
 
 <figure>
      <img src="{{ site.baseurl }}/assets/ztfdr2.jpg"
           alt="ZTF SNe Ia DR2.">
      <figcaption>
-         Absolute luminosity vs the decline rate of the ZTF SNe Ia DR2 light curves, color-coded with their subtypes (left), with their observed fractions (top right) and their host galaxy properties (bottom right). 
+         Absolute luminosity vs the decline rate of the ZTF SN Ia DR2 light curves, color-coded with their subtypes (left), with their observed fractions (top right) and their host galaxy properties (bottom right). 
      </figcaption>
 </figure>
 
@@ -24,7 +24,7 @@ Our ZTF SNe Ia cosmology working group performed an analysis of ZTF SN Ia DR2, t
 
 <div class="research-highlight" markdown="1">
 
-### super chandra
+### The mystery of the Super-Chandrasekhar Type Ia supernovae
 
 <figure>
      <img src="{{ site.baseurl }}/assets/super_chandra.jpg"
