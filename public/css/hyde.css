@@ -385,3 +385,10 @@ a.sidebar-nav-item:focus {
   padding-top: 1.5rem;
   border-top: 1px solid #e5e5e5;
 }
+
+@media (min-width: 64em) {
+  .useful-links ul {
+    columns: 2;
+    column-gap: 3rem;
+  }
+}
