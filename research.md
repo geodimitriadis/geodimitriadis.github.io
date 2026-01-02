@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-## Research highlights
+## Highlights
 
 <div class="research-highlight" markdown="1">
 
