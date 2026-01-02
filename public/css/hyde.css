@@ -386,7 +386,7 @@ a.sidebar-nav-item:focus {
   border-top: 1px solid #e5e5e5;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 48em) {
   .useful-links ul {
     columns: 2;
     column-gap: 3rem;
