@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Research highlights
 
-<div class="research-highlight">
+<div class="research-highlight" markdown="1">
 
 ### Fast-evolving optical transients
 <img src="{{ site.baseurl }}/assets/figures/transient_lightcurve.png"
@@ -18,7 +18,7 @@ physical mechanisms powering their emission.
 
 </div>
 
-<div class="research-highlight">
+<div class="research-highlight" markdown="1">
 
 ### Supernova environments and host galaxies
 <img src="{{ site.baseurl }}/assets/figures/host_galaxy.png"
@@ -33,7 +33,7 @@ of supernovae influence their observed properties and explosion channels.
 
 ## Surveys & collaborations
 
-<div class="research-highlight">
+<div class="research-highlight" markdown="1">
 
 ### Zwicky Transient Facility (ZTF)
 <img src="{{ site.baseurl }}/assets/figures/ztf_footprint.png"
@@ -44,7 +44,7 @@ with an emphasis on rapidly evolving and unusual events.
 
 </div>
 
-<div class="research-highlight">
+<div class="research-highlight" markdown="1">
 
 ### Vera C. Rubin Observatory (LSST)
 <img src="{{ site.baseurl }}/assets/figures/lsst_simulation.png"
