@@ -8,6 +8,24 @@ permalink: /research/
 
 <div class="research-highlight" markdown="1">
 
+### dr2
+
+<figure>
+     <img src="{{ site.baseurl }}/assets/ztfdr2.jpg"
+          alt="The Kepler light curve of SN 2018oh">
+     <figcaption>
+         The Kepler light curve of SN 2018oh.
+     </figcaption>
+</figure>
+
+I study fast-evolving optical transients discovered in wide-field time-domain
+surveys, focusing on their photometric and spectroscopic diversity and the
+physical mechanisms powering their emission.
+
+</div>
+
+<div class="research-highlight" markdown="1">
+
 ### super chandra
 
 <figure>
