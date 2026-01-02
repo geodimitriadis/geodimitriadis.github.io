@@ -421,7 +421,7 @@ a.sidebar-nav-item:focus {
 }
 
 .figure-row figure {
-  flex: 1;
+  flex: 0 0 48%;
   margin: 0;
 }
 
@@ -433,5 +433,9 @@ a.sidebar-nav-item:focus {
 @media (max-width: 48em) {
   .figure-row {
     flex-direction: column;
+  }
+
+  .figure-row figure {
+    flex: 1 1 auto;
   }
 }
