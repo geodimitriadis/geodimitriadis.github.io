@@ -413,3 +413,11 @@ a.sidebar-nav-item:focus {
   line-height: 1.4;
   text-align: center;
 }
+
+.research-highlight .creditcaption {
+  text-align: right;
+  font-size: 0.75rem;
+  color: #999;
+  margin-top: 0.2rem;
+  font-style: normal;
+}
