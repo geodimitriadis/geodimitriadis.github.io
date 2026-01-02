@@ -165,7 +165,7 @@ a.sidebar-nav-item:focus {
 
     /* THIS is what moves it lower */
     justify-content: flex-end;
-    padding-bottom: 2.5rem;  /* adjust this number */
+    padding-bottom: 3.5rem;  /* adjust this number */
   }
 }
 
