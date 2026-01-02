@@ -379,3 +379,25 @@ a.sidebar-nav-item:focus {
   font-size: 0.8rem;
   color: rgba(255,255,255,0.6);
 }
+
+/* Research page – highlight cards */
+.research-highlight {
+  margin: 3rem 0;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #eee;
+}
+
+.research-highlight:last-child {
+  border-bottom: none;
+}
+
+.research-highlight img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 1rem 0 1.2rem 0;
+}
+
+.research-highlight h3 {
+  margin-top: 0;
+}
