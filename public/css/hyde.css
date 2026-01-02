@@ -416,8 +416,8 @@ a.sidebar-nav-item:focus {
 
 .research-highlight .creditcaption {
   text-align: right;
-  font-size: 0.75rem;
+  font-size: 0.5rem;
   color: #999;
-  margin-top: 0.2rem;
+  margin-top: 0.05rem;
   font-style: normal;
 }
