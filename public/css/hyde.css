@@ -386,9 +386,21 @@ a.sidebar-nav-item:focus {
   border-top: 1px solid #e5e5e5;
 }
 
-@media (min-width: 48em) {
-  .useful-links ul {
-    columns: 2;
-    column-gap: 3rem;
-  }
+.useful-links ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.useful-links li {
+  margin-bottom: 0.4rem;
+}
+
+.useful-links li::before {
+  content: "–";
+  color: #bbb;
+  margin-right: 0.5rem;
+}
+
+.useful-links a {
+  font-weight: 500;
 }
