@@ -401,3 +401,13 @@ a.sidebar-nav-item:focus {
   margin-top: 0;
 }
 
+.research-highlight figure {
+  margin: 1rem 0 1.5rem 0;
+}
+
+.research-highlight figcaption {
+  font-size: 0.85rem;
+  color: #666;
+  margin-top: 0.4rem;
+  line-height: 1.4;
+}
