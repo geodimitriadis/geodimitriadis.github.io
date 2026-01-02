@@ -385,3 +385,22 @@ a.sidebar-nav-item:focus {
   padding-top: 1.5rem;
   border-top: 1px solid #e5e5e5;
 }
+
+.useful-links ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.useful-links li {
+  margin-bottom: 0.4rem;
+}
+
+.useful-links li::before {
+  content: "–";
+  color: #bbb;
+  margin-right: 0.5rem;
+}
+
+.useful-links a {
+  font-weight: 500;
+}
