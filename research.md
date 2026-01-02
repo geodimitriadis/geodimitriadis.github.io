@@ -8,24 +8,13 @@ permalink: /research/
 
 <div class="research-highlight" markdown="1">
 
-### Fast-evolving optical transients
-<img src="{{ site.baseurl }}/assets/figures/transient_lightcurve.png"
-     alt="Example light curve of a fast transient">
+### A Planet Hunter sees a Supernova bump
+<img src="{{ site.baseurl }}/assets/SN2018oh.jpg"
+     alt="The Kepler light curve of SN 2018oh">
 
 I study fast-evolving optical transients discovered in wide-field time-domain
 surveys, focusing on their photometric and spectroscopic diversity and the
 physical mechanisms powering their emission.
-
-</div>
-
-<div class="research-highlight" markdown="1">
-
-### Supernova environments and host galaxies
-<img src="{{ site.baseurl }}/assets/figures/host_galaxy.png"
-     alt="Supernova host galaxy example">
-
-By combining imaging and spectroscopy, I investigate how the local environments
-of supernovae influence their observed properties and explosion channels.
 
 </div>
 
@@ -41,16 +30,5 @@ of supernovae influence their observed properties and explosion channels.
 
 I am involved in the analysis and follow-up of transient alerts from ZTF,
 with an emphasis on rapidly evolving and unusual events.
-
-</div>
-
-<div class="research-highlight" markdown="1">
-
-### Vera C. Rubin Observatory (LSST)
-<img src="{{ site.baseurl }}/assets/figures/lsst_simulation.png"
-     alt="Simulated LSST transient detection">
-
-I contribute to preparation efforts for LSST, particularly in transient
-classification strategies and survey optimisation for fast events.
 
 </div>
