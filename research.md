@@ -75,9 +75,23 @@ The Legacy Survey of Space and Time (<a href="https://rubinobservatory.org/explo
 
 <div class="research-highlight" markdown="1">
 
+### 4MOST / Time-Domain Extragalactic Survey (TiDES)
+
+<figure>
+     <img src="{{ site.baseurl }}/assets/4MOST-Spectra-FOV.jpg"
+          alt="4MOST first light">
+     <div class="creditcaption">
+          Image credit: AIP/R. de Jong, CRAL/J.-K. Krogager, Harshwardhan Pathak/Telescope Live
+     </div>
+</figure>
+
+The 4-metre Multi-Object Spectroscopic Telescope (<a href="https://www.4most.eu/cms/home/" target="_blank" rel="noopener">4MOST</a>) is a next-generation wide-field spectroscopic facility designed to provide massively multiplexed follow-up of imaging surveys. Within 4MOST, the Time-Domain Extragalactic Survey (<a href="https://www.eso.org/sci/publications/messenger/archive/no.175-mar19/messenger-no175-58-61.pdf" target="_blank" rel="noopener">TiDES</a>) will deliver systematic spectroscopic classification and characterisation of transient and variable sources from the Legacy Survey of Space and Time (LSST) and other surveys, which will define the discovery space for southern-hemisphere time-domain astronomy. By obtaining large, homogeneous samples of supernova and transient spectra across a wide range of luminosities and redshifts, TiDES will enable population-level studies of explosive phenomena and their host galaxies. In parallel, TiDES will provide a critical spectroscopic foundation for SNe Ia cosmology at the LSST era, supporting precision measurements of the cosmic expansion.
+
+</div>
+
+<div class="research-highlight" markdown="1">
+
 ### Zwicky Transient Facility (ZTF)
-<img src="{{ site.baseurl }}/assets/ZTFDR2_press.png"
-     alt="ZTF SNe Ia from DR2">
 
 <figure>
      <img src="{{ site.baseurl }}/assets/ZTFDR2_press.png"
