@@ -3,8 +3,6 @@ layout: page
 title: Useful Links
 permalink: /useful-links/
 ---
-
-<div class="useful-links" markdown="1">
   
 A curated list of astronomy-related links I regularly use.
 
@@ -42,6 +40,6 @@ A curated list of astronomy-related links I regularly use.
 - [IRAF](https://iraf-community.github.io/)
 - [Astropy](https://www.astropy.org/)
 
-If you notice a broken link or have a suggestion, feel free to [email me](mailto:g.dimitriadis@lancaster.ac.uk).
+---
 
-</div>
+If you notice a broken link or have a suggestion, feel free to [email me](mailto:g.dimitriadis@lancaster.ac.uk).
