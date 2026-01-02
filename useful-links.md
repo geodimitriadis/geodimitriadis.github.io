@@ -2,9 +2,10 @@
 layout: page
 title: Useful Links
 permalink: /useful-links/
-classes: useful-links
 ---
 
+<div class="useful-links">
+  
 A curated list of astronomy-related links I regularly use.
 
 ## Time-series & transients
@@ -44,3 +45,5 @@ A curated list of astronomy-related links I regularly use.
 ---
 
 If you notice a broken link or have a suggestion, feel free to [email me](mailto:g.dimitriadis@lancaster.ac.uk).
+
+</div>
