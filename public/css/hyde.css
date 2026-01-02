@@ -143,18 +143,11 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) {
   .sidebar-sticky {
     position: absolute;
-    top: 1.5rem;
-    bottom: 1.5rem;
+    top: 2rem;
     left: 1rem;
     right: 1rem;
-
-    display: flex;
-    flex-direction: column;
   }
-
-  .sidebar-bottom {
-    margin-top: auto; /* pins icons + copyright to bottom */
-  }
+}
 
   .sidebar-icons {
     justify-content: flex-start;
