@@ -59,10 +59,9 @@ Thanks to the Kepler Space Telescope’s K2 Supernova Cosmology Experiment, one 
 <div class="research-highlight" markdown="1">
 
 ### Zwicky Transient Facility (ZTF)
-<img src="{{ site.baseurl }}/assets/figures/ztf_footprint.png"
+<img src="{{ site.baseurl }}/assets/ZTFDR2_press.png"
      alt="ZTF sky coverage">
 
-I am involved in the analysis and follow-up of transient alerts from ZTF,
-with an emphasis on rapidly evolving and unusual events.
+The Zwicky Transient Facility (ZTF) has reshaped time-domain astronomy by providing high-cadence, wide-field optical monitoring of the northern sky and unprecedented access to the dynamic Universe. Its ability to discover large numbers of transients shortly after explosion has enabled transformative studies of the earliest phases of supernovae, revealed the prevalence of early-time light-curve excesses, and uncovered new classes of rare and fast-evolving transients. Beyond stellar explosions, ZTF has dramatically expanded samples of tidal disruption events, changing-look active galactic nuclei, and electromagnetic counterparts to gravitational-wave sources, linking optical variability to compact-object physics and black-hole accretion. At the same time, ZTF is delivering the most comprehensive and well-controlled low-redshift Type Ia supernova sample to date, providing a critical foundation for precision cosmology and anchoring distance measurements used by higher-redshift surveys.
 
 </div>
