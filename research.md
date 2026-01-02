@@ -58,10 +58,24 @@ Thanks to the Kepler Space Telescope’s K2 Supernova Cosmology Experiment, one 
 
 <div class="research-highlight" markdown="1">
 
+### Vera C. Rubin / Legacy Survey of Space and Time (LSST)
+<img src="{{ site.baseurl }}/assets/Rubin.jpeg"
+     alt="Rubin Observatory">
+<div class="creditcaption">
+     Image credit: NSF–DOE Rubin Observatory/P.J. Assuncao
+</div>
+
+The Legacy Survey of Space and Time (<a href="https://rubinobservatory.org/explore/how-rubin-works/lsst" target="_blank" rel="noopener">LSST</a>) of the <a href="https://rubinobservatory.org/" target="_blank" rel="noopener">Vera C. Rubin Observatory</a> will usher in a new era of time-domain astronomy by repeatedly imaging the southern sky with unprecedented depth, cadence, and uniformity. By discovering and monitoring millions of supernovae and other transients over a wide range of timescales and redshifts, LSST will open vast new discovery space for rare, extreme, and previously unknown classes of variable phenomena. Its scale and homogeneity will enable population-level studies that move beyond individual events, allowing systematic mapping of the diversity and evolution of stellar explosions, accretion-driven transients, and variable sources across cosmic history. In parallel, the cosmological exploitation of LSST data is being led by the Dark Energy Science Collaboration (<a href="https://lsstdesc.org/" target="_blank" rel="noopener">DESC</a>), which will deliver precision measurements of cosmic expansion and structure growth, providing transformative constraints on dark energy and fundamental physics.
+
+</div>
+
+
+<div class="research-highlight" markdown="1">
+
 ### Zwicky Transient Facility (ZTF)
 <img src="{{ site.baseurl }}/assets/ZTFDR2_press.png"
-     alt="ZTF sky coverage">
+     alt="ZTF SNe Ia from DR2">
 
-The Zwicky Transient Facility (ZTF) has reshaped time-domain astronomy by providing high-cadence, wide-field optical monitoring of the northern sky and unprecedented access to the dynamic Universe. Its ability to discover large numbers of transients shortly after explosion has enabled transformative studies of the earliest phases of supernovae, revealed the prevalence of early-time light-curve excesses, and uncovered new classes of rare and fast-evolving transients. Beyond stellar explosions, ZTF has dramatically expanded samples of tidal disruption events, changing-look active galactic nuclei, and electromagnetic counterparts to gravitational-wave sources, linking optical variability to compact-object physics and black-hole accretion. At the same time, ZTF is delivering the most comprehensive and well-controlled low-redshift Type Ia supernova sample to date, providing a critical foundation for precision cosmology and anchoring distance measurements used by higher-redshift surveys.
+The Zwicky Transient Facility (<a href="https://www.ztf.caltech.edu/" target="_blank" rel="noopener">ZTF</a>) has reshaped time-domain astronomy by providing high-cadence, wide-field optical monitoring of the northern sky and unprecedented access to the dynamic Universe. Its ability to discover large numbers of transients shortly after explosion has enabled transformative studies of the earliest phases of supernovae, revealed the prevalence of early-time light-curve excesses, and uncovered new classes of rare and fast-evolving transients. Beyond stellar explosions, ZTF has dramatically expanded samples of tidal disruption events, changing-look active galactic nuclei, and electromagnetic counterparts to gravitational-wave sources, linking optical variability to compact-object physics and black-hole accretion. At the same time, ZTF is delivering the most comprehensive and well-controlled low-redshift Type Ia supernova sample to date, providing a critical foundation for precision cosmology and anchoring distance measurements used by higher-redshift surveys.
 
 </div>
