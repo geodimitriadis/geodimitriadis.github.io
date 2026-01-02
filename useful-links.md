@@ -6,7 +6,7 @@ permalink: /useful-links/
   
 A curated list of astronomy-related links I regularly use.
 
-## Time-series & transients
+## Transients
 - [TNS](https://www.wis-tns.org/)
 - [WISeREP](https://www.wiserep.org/)
 - [ATLAS transients](https://star.pst.qub.ac.uk/sne/atlas4/)
