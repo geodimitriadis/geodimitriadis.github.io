@@ -4,7 +4,7 @@ title: Useful Links
 permalink: /useful-links/
 ---
 
-<div class="useful-links">
+<div class="useful-links" markdown="1">
   
 A curated list of astronomy-related links I regularly use.
 
