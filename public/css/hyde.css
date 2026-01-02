@@ -144,10 +144,21 @@ a.sidebar-nav-item:focus {
   .sidebar-sticky {
     position: absolute;
     top: 2rem;
+    bottom: 2rem;
     left: 1rem;
     right: 1rem;
+
     display: flex;
     flex-direction: column;
+  }
+
+  .sidebar-nav {
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  .sidebar-bottom {
+    margin-top: auto;
   }
 }
 
