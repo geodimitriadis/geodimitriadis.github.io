@@ -413,31 +413,3 @@ a.sidebar-nav-item:focus {
   line-height: 1.4;
   text-align: center;
 }
-
-.figure-row {
-  display: flex;
-  gap: 1.5rem;
-  margin: 1rem 0 1.5rem 0;
-}
-
-.figure-row figure {
-  flex: 0 0 48%;
-  margin: 0;
-}
-
-.figure-row img {
-  width: 100%;
-  /* height: auto; */
-  height: 220px;          /* adjust to taste */
-  object-fit: cover;     /* crops instead of stretching */
-}
-
-@media (max-width: 48em) {
-  .figure-row {
-    flex-direction: column;
-  }
-
-  .figure-row figure {
-    flex: 1 1 auto;
-  }
-}
