@@ -10,21 +10,23 @@ permalink: /research/
 
 ### super chandra
 
-<figure>
-     <img src="{{ site.baseurl }}/assets/SN2020esm.jpg"
-          alt="20esm">
-     <figcaption>
-         bla.
-     </figcaption>
-</figure>
+<div class="figure-row">
+  <figure>
+    <img src="{{ site.baseurl }}/assets/SN2020esm.jpg"
+         alt="SN 2020esm">
+    <figcaption>
+      bla.
+    </figcaption>
+  </figure>
 
-<figure>
-     <img src="{{ site.baseurl }}/assets/SN2021zny.jpg"
-          alt="21zny">
-     <figcaption>
-         bla.
-     </figcaption>
-</figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/SN2021zny.jpg"
+         alt="SN 2021zny">
+    <figcaption>
+      bla.
+    </figcaption>
+  </figure>
+</div>
 
 I study fast-evolving optical transients discovered in wide-field time-domain
 surveys, focusing on their photometric and spectroscopic diversity and the
