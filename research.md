@@ -29,7 +29,7 @@ of supernovae influence their observed properties and explosion channels.
 
 </div>
 
----
+<div class="research-section-divider"></div>
 
 ## Surveys & collaborations
 
