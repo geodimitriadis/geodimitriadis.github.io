@@ -18,6 +18,7 @@ paginate: 5
 # Optional author block (edit as you like)
 author:
   name: "Georgios Dimitriadis"
+  email: "g.dimitriadis@lancaster.ac.uk"
 
 # Optional: metadata link
 github:
