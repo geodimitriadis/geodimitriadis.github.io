@@ -107,8 +107,7 @@ The Zwicky Transient Facility (<a href="https://www.ztf.caltech.edu/" target="_b
 
 ---
 
-<div style="text-align: center; margin-top: 2rem;">
+<div class="page-cartoon">
   <img src="{{ site.baseurl }}/public/images/research-cartoon.png"
-       alt="Observing"
-       style="max-width: 400px; width: 100%; height: auto; display: block; margin: 0 auto;">
+       alt="Research cartoon">
 </div>
