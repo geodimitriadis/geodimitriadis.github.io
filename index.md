@@ -18,8 +18,7 @@ My work combines large-scale transient surveys with detailed optical and near-in
 
 ---
 
-<div style="text-align: center; margin-top: 2rem;">
+<div class="page-cartoon">
   <img src="{{ site.baseurl }}/public/images/science_with_a_bang.png"
-       alt="Science with a bang"
-       style="max-width: 400px; width: 100%; height: auto; display: block; margin: 0 auto;">
+       alt="Science with a bang">
 </div>
