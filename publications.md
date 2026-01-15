@@ -76,8 +76,7 @@ This page highlights selected publications. For a complete and up-to-date list, 
 
 ---
 
-<div style="text-align: center; margin-top: 2rem;">
+<div class="page-cartoon">
   <img src="{{ site.baseurl }}/public/images/publications-cartoon.png"
-       alt="Observing"
-       style="max-width: 400px; width: 100%; height: auto; display: block; margin: 0 auto;">
+       alt="Publications cartoon">
 </div>
