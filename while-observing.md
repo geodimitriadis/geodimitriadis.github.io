@@ -11,6 +11,13 @@ Here are a few things I listen to while observing.
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/27KEKgC2mBb8z3l7h93fE1?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
 
+<p style="text-align:center; font-size:0.85rem;">
+Open the full playlist in
+<a href="https://open.spotify.com/playlist/27KEKgC2mBb8z3l7h93fE1" target="_blank" rel="noopener">
+Spotify
+</a>
+</p>
+
 ---
 
 <div class="page-cartoon">
