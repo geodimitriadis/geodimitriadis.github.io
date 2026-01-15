@@ -433,4 +433,7 @@ a.sidebar-nav-item:focus {
   height: auto;
   display: block;
   margin: 0 auto;
+
+  border: 3px solid #000;
+  box-sizing: border-box;
 }
