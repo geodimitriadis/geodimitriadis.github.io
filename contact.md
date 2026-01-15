@@ -10,5 +10,5 @@ Email is best: [g.dimitriadis@lancaster.ac.uk](mailto:g.dimitriadis@lancaster.ac
 
 <div class="page-cartoon">
   <img src="{{ site.baseurl }}/public/images/contact-cartoon.png"
-       alt="Descriptive alt text">
+       alt="Contact cartoon">
 </div>
