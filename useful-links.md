@@ -45,6 +45,6 @@ If you notice a broken link or have a suggestion, feel free to [email me](mailto
 ---
 
 <div class="page-cartoon">
-  <img src="{{ site.baseurl }}/public/images/useful-links-cartoon.png"
+  <img src="{{ site.baseurl }}/public/images/useful-links-cartoon.jpeg"
        alt="Useful links cartoon">
 </div>
