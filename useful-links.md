@@ -40,6 +40,13 @@ A curated list of astronomy-related links I regularly use.
 - [IRAF](https://iraf-community.github.io/)
 - [Astropy](https://www.astropy.org/)
 
+If you notice a broken link or have a suggestion, feel free to [email me](mailto:g.dimitriadis@lancaster.ac.uk).
+
 ---
 
-If you notice a broken link or have a suggestion, feel free to [email me](mailto:g.dimitriadis@lancaster.ac.uk).
+<div style="text-align: center; margin-top: 2rem;">
+  <img src="{{ site.baseurl }}/public/images/usefull-links-cartoon.png"
+       alt="Observing"
+       style="max-width: 400px; width: 100%; height: auto; display: block; margin: 0 auto;">
+</div>
+
