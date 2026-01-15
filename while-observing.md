@@ -21,6 +21,6 @@ Spotify
 ---
 
 <div class="page-cartoon">
-  <img src="{{ site.baseurl }}/public/images/observing-cartoon.png"
+  <img src="{{ site.baseurl }}/public/images/observing-cartoon.jpeg"
        alt="Observing cartoon">
 </div>
