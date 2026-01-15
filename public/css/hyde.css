@@ -421,3 +421,16 @@ a.sidebar-nav-item:focus {
   margin-top: 0.05rem;
   font-style: normal;
 }
+
+.page-cartoon {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.page-cartoon img {
+  max-width: 400px;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
