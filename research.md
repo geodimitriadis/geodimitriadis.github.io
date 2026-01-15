@@ -104,3 +104,11 @@ The 4-metre Multi-Object Spectroscopic Telescope (<a href="https://www.4most.eu/
 The Zwicky Transient Facility (<a href="https://www.ztf.caltech.edu/" target="_blank" rel="noopener">ZTF</a>) has reshaped time-domain astronomy by providing high-cadence, wide-field optical monitoring of the northern sky and unprecedented access to the dynamic Universe. Its ability to discover large numbers of transients shortly after explosion has enabled transformative studies of the earliest phases of supernovae, revealed the prevalence of early-time light-curve excesses, and uncovered new classes of rare and fast-evolving transients. Beyond stellar explosions, ZTF has dramatically expanded samples of tidal disruption events, changing-look active galactic nuclei, and electromagnetic counterparts to gravitational-wave sources, linking optical variability to compact-object physics and black-hole accretion. At the same time, ZTF is delivering the most comprehensive and well-controlled low-redshift Type Ia supernova sample to date, providing a critical foundation for precision cosmology and anchoring distance measurements used by higher-redshift surveys.
 
 </div>
+
+---
+
+<div style="text-align: center; margin-top: 2rem;">
+  <img src="{{ site.baseurl }}/public/images/research-cartoon.png"
+       alt="Observing"
+       style="max-width: 400px; width: 100%; height: auto; display: block; margin: 0 auto;">
+</div>
