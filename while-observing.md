@@ -10,3 +10,11 @@ Here are a few things I listen to while observing.
 <div style="max-width: 500px; margin: 2rem auto;">
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/27KEKgC2mBb8z3l7h93fE1?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
+
+---
+
+<div style="text-align: center; margin-top: 2rem;">
+  <img src="{{ site.baseurl }}/assets/observing-cartoon.png"
+       alt="Observing"
+       style="max-width: 400px; width: 100%; height: auto; display: block; margin: 0 auto;">
+</div>
