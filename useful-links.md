@@ -45,7 +45,7 @@ If you notice a broken link or have a suggestion, feel free to [email me](mailto
 ---
 
 <div style="text-align: center; margin-top: 2rem;">
-  <img src="{{ site.baseurl }}/public/images/usefull-links-cartoon.png"
+  <img src="{{ site.baseurl }}/public/images/useful-links-cartoon.png"
        alt="Observing"
        style="max-width: 400px; width: 100%; height: auto; display: block; margin: 0 auto;">
 </div>
