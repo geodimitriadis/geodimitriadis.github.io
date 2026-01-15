@@ -13,8 +13,7 @@ Here are a few things I listen to while observing.
 
 ---
 
-<div style="text-align: center; margin-top: 2rem;">
+<div class="page-cartoon">
   <img src="{{ site.baseurl }}/public/images/observing-cartoon.png"
-       alt="Observing"
-       style="max-width: 400px; width: 100%; height: auto; display: block; margin: 0 auto;">
+       alt="Observing cartoon">
 </div>
