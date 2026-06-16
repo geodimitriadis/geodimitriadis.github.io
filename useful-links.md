@@ -28,7 +28,7 @@ A curated list of astronomy-related links I regularly use.
 - <a href="https://svo2.cab.inta-csic.es/svo/theory/fps3/" target="_blank" rel="noopener noreferrer"> SVO filters</a>
 - <a href="https://physics.nist.gov/PhysRefData/Handbook/element_name.htm" target="_blank" rel="noopener noreferrer"> NIST – Basic Atomic Spectroscopic Data</a>
 - <a href="https://skyserver.sdss.org/dr14/en/tools/chart/navi.aspx" target="_blank" rel="noopener noreferrer"> SDSS – Sloan Digital Sky Survey</a>
-- <a href="https://ps1images.stsci.edu/cgi-bin/ps1cutouts" target="_blank" rel="noopener noreferrer"> PanSTARRS Image Cutouts</a> and <a href="https://ps1images.stsci.edu/cgi-bin/ps1cutouts" target="_blank" rel="noopener noreferrer"> Catalog</a>
+- <a href="https://ps1images.stsci.edu/cgi-bin/ps1cutouts" target="_blank" rel="noopener noreferrer"> PanSTARRS Image Cutouts</a> and <a href="https://ps1images.stsci.edu/cgi-bin/ps1cutouts" target="_blank" rel="noopener noreferrer"> Catalogs</a>
 - <a href="https://www.legacysurvey.org/viewer" target="_blank" rel="noopener noreferrer"> Legacy Survey</a>
 
 ## Literature
