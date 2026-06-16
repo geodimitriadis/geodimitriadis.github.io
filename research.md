@@ -18,7 +18,7 @@ permalink: /research/
      </figcaption>
 </figure>
 
-Our ZTF SNe Ia cosmology working group performed an analysis of ZTF SN Ia DR2, the SNe Ia discovered by <a href="https://www.ztf.caltech.edu/" target="_blank" rel="noopener">ZTF</a> from 2018 to 2020, the largest low-redshift sample of SNe Ia of all flavors, a work that resulted in a <a href="https://www.aanda.org/component/toc/?task=topic&id=2090" target="_blank" rel="noopener">Special Issue</a> at Astronomy & Astrophysics. I led the <a href="https://ui.adsabs.harvard.edu/abs/2025A%26A...694A..10D/abstract" target="_blank" rel="noopener">analysis</a> of their observed properties and their relative rates, combining photometric, spectroscopic and host galaxy information to map the diversity of the thermonuclear supernova population.
+Our ZTF SNe Ia cosmology working group performed an analysis of ZTF SN Ia DR2, the SNe Ia discovered by <a href="https://www.ztf.caltech.edu/" target="_blank" rel="noopener">ZTF</a> from 2018 to 2020, the largest low-redshift sample of SNe Ia of all flavors, a work that resulted in a <a href="https://www.aanda.org/component/toc/?task=topic&id=2090" target="_blank" rel="noopener">Special Issue at Astronomy & Astrophysics</a>. I led the <a href="https://ui.adsabs.harvard.edu/abs/2025A%26A...694A..10D/abstract" target="_blank" rel="noopener">analysis</a> of their observed properties and their relative rates, combining photometric, spectroscopic and host galaxy information to map the diversity of the thermonuclear supernova population.
 
 </div>
 
