@@ -8,7 +8,7 @@ title: About me
   alt="Georgios Dimitriadis"
   class="profile-photo profile-photo-right">
 
-I am an observational astrophysicist specialising in transient astronomy, with a particular focus on Type Ia supernovae, their progenitor systems, and the diversity of thermonuclear transients.
+I am an observational astrophysicist specialising in transient astronomy, with a particular focus on [Type Ia supernovae](https://www.youtube.com/watch?v=jlqnKu82UxU), their progenitor systems, and the diversity of thermonuclear transients.
 
 I completed my PhD in Astronomy at the [University of Southampton](https://www.southampton.ac.uk/research/institutes-centres/astronomy-group), following an MSc in Physics and Astronomy at the [Anton Pannekoek Institute for Astronomy](https://api.uva.nl/) in Amsterdam and a Bachelor’s degree in Physics at [Aristotle University of Thessaloniki](https://www.physics.auth.gr/en/home/).  
 
