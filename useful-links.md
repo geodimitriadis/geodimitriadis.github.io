@@ -35,7 +35,7 @@ A curated list of astronomy-related links I regularly use.
 - <a href="https://ui.adsabs.harvard.edu/" target="_blank" rel="noopener noreferrer"> NASA ADS</a>
 - <a href="https://arxiv.org/archive/astro-ph" target="_blank" rel="noopener noreferrer"> arXiv (astro-ph)</a>
 
-## Software & tools
+## Software and tools
 - <a href="https://iraf-community.github.io/" target="_blank" rel="noopener noreferrer"> IRAF</a>
 - <a href="https://www.astropy.org/" target="_blank" rel="noopener noreferrer"> Astropy</a>
 
