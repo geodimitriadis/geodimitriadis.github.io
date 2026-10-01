@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-This page highlights selected publications. For a complete and up-to-date list, see the NASA ADS link below.
+This page highlights selected publications. For a complete and up-to-date list, see my <a href="https://ui.adsabs.harvard.edu/user/libraries/9QZsHjSzS3GgJT5W_WMhHw" target="_blank" rel="noopener"> NASA ADS library</a>.
 
 ## Selected publications
 
@@ -63,11 +63,6 @@ This page highlights selected publications. For a complete and up-to-date list, 
   <span style="color:#666;">
     Explained the absence of X-ray emission in SNe Ia using numerical hydrodynamical simulations of recurrent nova eruptions prior to the terminal supernova explosion and the subsequent interaction with the surrounding medium.
   </span>
-
-## Full list
-<p>
-  For a complete list, see my <a href="https://ui.adsabs.harvard.edu/user/libraries/9QZsHjSzS3GgJT5W_WMhHw" target="_blank" rel="noopener"> NASA ADS library</a>.
-</p>
 
 ---
 
